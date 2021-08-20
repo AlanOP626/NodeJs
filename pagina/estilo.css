@@ -1,0 +1,28 @@
+
+header{
+    margin-top: 75px;
+    background-color:yellowgreen;
+    text-align: center;
+    border: white 8px groove; 
+}
+section{
+    margin-top: 75px;
+    background-color:yellowgreen;  
+    border: white 8px groove;
+    text-align: center;
+}
+footer{
+    margin-top: 75px;
+}
+#Contactos{
+    text-align: center;
+    background-color:yellowgreen; 
+    border: white 8px groove;
+}
+body {
+    background-image: url("Imagen/1.jpg");
+  }
+
+  div{
+    border: white 2px solid; 
+  }
